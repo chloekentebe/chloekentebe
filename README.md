@@ -1,6 +1,6 @@
 ## Hello! Welcome to my Github 🏡
 - 👷🏽‍♀️ Name: Chloe Kentebe
-- 💻 Program: Computer Engineering 2T8 + PEY Co-op (2nd Year)
+- 💻 Program: Computer Engineering 2T8 + PEY Co-op (2nd Year) @ UofT
 
 ## I focus on...
 - cybersecurity 🛡️
