@@ -1,5 +1,7 @@
 ## Hello! Welcome to my Github 🏡
 
+👷🏽‍♀️ Name: Chloe Kentebe
+💻 Program: Computer Engineering 2T8 + PEY Co-op (2nd Year)
 
 <!--
 **chloekentebe/chloekentebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
