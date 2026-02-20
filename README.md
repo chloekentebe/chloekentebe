@@ -7,10 +7,6 @@
 - sustainability 🌿
 - machine intelligence ✨
 
-<!--## Currently building 🛠️
-- 🚨 Real-time, machine-learning based intrusion detection system for a V2V and V2I longitudinal truck platoon that I created in MATLAB and Simulink
-- 🖼️ Graphical user interface for UTFR Driverless Team 2D Object Self-labelling Tool -->
-
 <!--
 **chloekentebe/chloekentebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
