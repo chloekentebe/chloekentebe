@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Chloe Kentebe
 
 🎓 **Computer Engineering (2T8) + PEY Co-op, 2nd Year**  
-📍 Toronto, Ontario, Canada
+📍 University of Toronto
 
 I’m a computer engineering student with a strong interest in building **secure, scalable, and impactful software systems**. My work spans **full-stack development**, **cybersecurity**, and **machine intelligence**, with a focus on applying engineering principles to real-world problems.
 
