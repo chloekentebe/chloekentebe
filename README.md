@@ -6,10 +6,11 @@
 I’m a computer engineering student with a strong interest in building **secure, scalable, and impactful software systems**. My work spans **full-stack development**, **cybersecurity**, and **machine intelligence**, with a focus on applying engineering principles to real-world problems.
 
 ### 🔍 Areas of Interest
-- **Cybersecurity & Secure Systems** — authentication, threat modeling, secure software practices  
-- **Software Engineering** — backend systems, APIs, data-driven applications  
-- **Machine Intelligence** — automation, intelligent systems, data-informed decision-making  
-- **Sustainability & Social Impact** — technology for health, accessibility, and ethical innovation
+- **Software Engineering** — backend systems, APIs, reliability, maintainable code
+- **Cybersecurity & Secure Systems** — authentication, security information and event mangement, risk-aware design
+- **Cloud & Infrastructure** — cloud-native architectures, deployment fundamentals, infrastructure-as-code concepts
+- **Machine Intelligence** — automation, intelligent systems, data-driven analysis
+- **Sociotechnical Systems & Sustainability** — governance, ethics, and responsible system design
 
 ### 🛠 Technical Skills
 - **Programming:** JavaScript, Python, C/C++, TypeScript (learning)
