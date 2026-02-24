@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Chloe Kentebe
 
 🎓 **Computer Engineering (2T8) + PEY Co-op, 2nd Year**  
-📍 :contentReference[oaicite:0]{index=0}
+📍 Toronto, Ontario, Canada
 
 I’m a computer engineering student with a strong interest in building **secure, scalable, and impactful software systems**. My work spans **full-stack development**, **cybersecurity**, and **machine intelligence**, with a focus on applying engineering principles to real-world problems.
 
@@ -15,10 +15,14 @@ I’m a computer engineering student with a strong interest in building **secure
 - **Programming:** JavaScript, Python, C/C++, TypeScript (learning)
 - **Web & Backend:** Node.js, Express, REST APIs
 - **Tools & Practices:** Git & GitHub, npm, environment configuration (`.env`)
-- **Security Concepts:** secure authentication flows, secrets management, basic threat awareness
+- **Security Concepts:** secure authentication flows, incident response, threat modelling
 - **Development Practices:** debugging, documentation, collaborative version control
 
-📂 This GitHub showcases academic, hackathon, and personal projects — including secure applications, health-focused tools, and intelligent systems — reflecting my growth as a software and cybersecurity engineer.
+## 📫 Connect With Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/chloekentebe
+- 📧 **Email:** chloe.kentebe@mail.utoronto.ca
+- 🌐 **GitHub:** You’re already here 🙂
 
 <!--
 **chloekentebe/chloekentebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
