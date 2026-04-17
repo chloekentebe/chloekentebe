@@ -22,8 +22,6 @@ I’m a computer engineering student with a strong interest in building **secure
 ## 📫 Connect With Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/chloekentebe
-- 📧 **Email:** chloe.kentebe@mail.utoronto.ca
-- 🌐 **GitHub:** You’re already here 🙂
 
 <!--
 **chloekentebe/chloekentebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
