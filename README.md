@@ -1,9 +1,6 @@
-## 👋 Hi, I’m Chloe Kentebe
+## 👋 Hi, I’m Chloe Kentebe 
 
-🎓 Computer Engineering (2T8) + PEY Co-op, 2nd Year  
-📍 University of Toronto  
-
-I’m a computer engineering student focused on building **data-driven applications and scalable software systems** that transform complex data into actionable insights. My experience spans backend development, intelligent systems, and user-facing tools, with an emphasis on **clean architecture, automation, and real-world impact**.
+I’m a computer engineering student at the University of Toronto focused on building **data-driven applications and scalable software systems** that transform complex data into actionable insights. My experience spans backend development, intelligent systems, and user-facing tools, with an emphasis on **clean architecture, automation, and real-world impact**.
 
 ---
 
