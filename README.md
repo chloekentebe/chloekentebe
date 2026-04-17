@@ -1,27 +1,49 @@
 ## 👋 Hi, I’m Chloe Kentebe
 
-🎓 **Computer Engineering (2T8) + PEY Co-op, 2nd Year**  
-📍 University of Toronto
+🎓 Computer Engineering (2T8) + PEY Co-op, 2nd Year  
+📍 University of Toronto  
 
-I’m a computer engineering student with a strong interest in building **secure, scalable, and impactful software systems**. My work spans **full-stack development**, **cybersecurity**, and **machine intelligence**, with a focus on applying engineering principles to real-world problems.
+I’m a computer engineering student focused on building **data-driven applications and scalable software systems** that transform complex data into actionable insights. My experience spans backend development, intelligent systems, and user-facing tools, with an emphasis on **clean architecture, automation, and real-world impact**.
 
-### 🔍 Areas of Interest
-- **Software Engineering** — backend systems, APIs, reliability, maintainable code
-- **Cybersecurity & Secure Systems** — authentication, security information and event mangement, risk-aware design
-- **Cloud & Infrastructure** — cloud-native architectures, deployment fundamentals, infrastructure-as-code concepts
-- **Machine Intelligence** — automation, intelligent systems, data-driven analysis
-- **Sociotechnical Systems & Sustainability** — governance, ethics, and responsible system design
+---
 
-### 🛠 Technical Skills
-- **Programming:** JavaScript, Python, C/C++, TypeScript (learning)
-- **Web & Backend:** Node.js, Express, REST APIs
-- **Tools & Practices:** Git & GitHub, npm, environment configuration (`.env`)
-- **Security Concepts:** secure authentication flows, incident response, threat modelling
-- **Development Practices:** debugging, documentation, collaborative version control
+## 🔍 Areas of Interest  
 
-## 📫 Connect With Me
+- **Software Engineering** — backend systems, APIs, and maintainable architectures  
+- **Data-Driven Applications** — transforming structured data into decision-support tools  
+- **Cloud & Infrastructure** — deployment fundamentals, scalable systems, infrastructure concepts  
+- **Cybersecurity & Secure Systems** — threat modeling, risk-aware design, secure workflows  
+- **Intelligent Systems** — automation, applied machine learning, and system-level integration  
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/chloekentebe
+---
+
+## 🛠 Technical Skills  
+
+**Programming:**  
+Python, JavaScript, C/C++, TypeScript (learning)  
+
+**Backend & Data Systems:**  
+Node.js, Express, REST APIs, structured data handling  
+
+**Tools & Practices:**  
+Git & GitHub, npm, environment configuration (.env), debugging, documentation  
+
+**Security Concepts:**  
+Authentication flows, threat modeling, incident response fundamentals  
+
+---
+
+## 💡 What I Build  
+
+- Data-driven tools that convert complex datasets into usable insights  
+- Backend systems and APIs that support scalable applications  
+- User-facing interfaces that improve workflow efficiency and usability  
+
+---
+
+## 📫 Connect With Me  
+
+💼 [LinkedIn](https://www.linkedin.com/in/chloekentebe)
 
 <!--
 **chloekentebe/chloekentebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
