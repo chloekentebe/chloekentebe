@@ -17,7 +17,7 @@ I’m a computer engineering student at the University of Toronto focused on bui
 ## 🛠 Technical Skills  
 
 **Programming:**  
-Python, JavaScript, C/C++, SQL, TypeScript (learning)  
+Python, JavaScript, C/C++, SQL, TypeScript  
 
 **Backend & Data Systems:**  
 Node.js, Express, REST APIs, structured data handling  
